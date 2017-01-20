@@ -1,0 +1,11 @@
+#Cassandra DB for multi-cloud deployments
+
+#Why?
+-Architecture: http://docs.datastax.com/en/archived/cassandra/2.0/cassandra/architecture/architectureTOC.html
+-Data Replication: http://docs.datastax.com/en/archived/cassandra/2.0/cassandra/architecture/architectureDataDistributeAbout_c.html
+
+#Installing
+http://docs.datastax.com/en/archived/cassandra/2.0/cassandra/install/install_cassandraTOC.html
+
+#Multi-Cloud deployment
+http://docs.datastax.com/en/archived/cassandra/2.0/cassandra/initialize/initializeMultipleDS.html
